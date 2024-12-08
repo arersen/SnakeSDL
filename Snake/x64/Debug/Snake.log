@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\waflik\source\repos\Snake\Snake\Game.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\waflik\source\repos\Snake\Snake\Game.cpp(74,14): warning C4018: '>': signed/unsigned mismatch
+  Snake.vcxproj -> C:\Users\waflik\source\repos\Snake\x64\Debug\Snake.exe

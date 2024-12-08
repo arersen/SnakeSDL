@@ -1,0 +1,9 @@
+﻿  Snake.cpp
+C:\Users\waflik\source\repos\Snake\Snake\Window.h(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'Snake.cpp')
+  
+  Window.cpp
+C:\Users\waflik\source\repos\Snake\Snake\Window.h(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'Window.cpp')
+  
+  Generating Code...
